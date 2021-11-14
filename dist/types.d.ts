@@ -1,0 +1,35 @@
+export interface SRCProps {
+    children: any;
+    w: string;
+    w_414: string;
+    w_600: string;
+    w_768: string;
+    w_992: string;
+    w_1200: string;
+    w_1440: string;
+    w_1920: string;
+    m: string;
+    m_414: string;
+    m_600: string;
+    m_768: string;
+    m_992: string;
+    m_1200: string;
+    m_1440: string;
+    m_1920: string;
+    mt: string;
+    mt_414: string;
+    mt_600: string;
+    mt_768: string;
+    mt_992: string;
+    mt_1200: string;
+    mt_1440: string;
+    mt_1920: string;
+    ml: string;
+    ml_414: string;
+    ml_600: string;
+    ml_768: string;
+    ml_992: string;
+    ml_1200: string;
+    ml_1440: string;
+    ml_1920: string;
+}
